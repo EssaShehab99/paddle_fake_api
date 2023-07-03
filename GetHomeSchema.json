@@ -1,0 +1,152 @@
+{
+    "data": {
+        "cities": [
+            {
+                "id": 1,
+                "name": "محافظة الخرج"
+            },
+            {
+                "id": 2,
+                "name": "محافظة الرياض"
+            },
+            {
+                "id": 3,
+                "name": "محافظة جدة"
+            },
+            {
+                "id": 4,
+                "name": "محافظة المدينة المنورة"
+            }
+        ],
+        "offers": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/premium-photo/football-stadium-with-stands-full-fans-waiting-night-game-d-rendering_207634-4274.jpg?w=2000"
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/premium-photo/football-stadium-with-stands-full-fans-waiting-night-game-d-rendering_207634-4274.jpg?w=2000"
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/premium-photo/football-stadium-with-stands-full-fans-waiting-night-game-d-rendering_207634-4274.jpg?w=2000"
+            }
+        ],
+        "events": [
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            },
+            {
+                "id": 4,
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/aeca7d5/2147483647/strip/true/crop/5490x3635+0+0/resize/1200x795!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F95%2F0f6f64c34edd9a36de710e69510f%2Fla-photos-1staff-597718-sp-0821-sofi-stadium16-wjs.jpg"
+            }
+        ],
+        "bookings": [
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "date": "2023-06-10 15:26:16.682",
+                "type": "paddle_court",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "date": "2023-06-10 15:26:16.682",
+                "type": "paddle_court",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "date": "2023-06-10 15:26:16.682",
+                "type": "paddle_court",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "date": "2023-06-10 15:26:16.682",
+                "type": "paddle_court",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "date": "2023-06-10 15:26:16.682",
+                "type": "paddle_court",
+                "price": 225.5
+            }
+        ],
+        "favorites": [
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "type": "paddle_court",
+                "date": "2023-06-10 15:26:16.682",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "type": "paddle_court",
+                "date": "2023-06-10 15:26:16.682",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "type": "paddle_court",
+                "date": "2023-06-10 15:26:16.682",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "type": "paddle_court",
+                "date": "2023-06-10 15:26:16.682",
+                "price": 225.5
+            },
+            {
+                "id": 4,
+                "title": "ملعب الدوسري",
+                "type": "paddle_court",
+                "date": "2023-06-10 15:26:16.682",
+                "price": 225.5
+            }
+        ]
+    }
+}

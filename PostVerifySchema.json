@@ -1,0 +1,8 @@
+{
+    "data": {
+        "id": 1,
+        "phone": "123456789"
+    },
+    "is_registered": false,
+    "token": "your-auth-token"
+}
